@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cartas-al-viento-frio/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Cartas al viento frío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cartas-al-viento-frio/) |
+| **Get License** | [Official Music Licensing for Cartas al viento frío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cartas-al-viento-frio/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dejé mis cartas al viento frío de la madrugada
+> Buscando el calor de tu piel que me tiene de rehén
+> Tus ojos brillan más que las luces de la calle mojada
+> Dime si esta noche te escapas y me ves también
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
