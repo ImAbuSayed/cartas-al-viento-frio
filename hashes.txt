@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cartas al viento frío
+
+This log tracks the cryptographic history and versioning for the song **Cartas al viento frío** (cartas-al-viento-frio).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T13:58:47.876614 | `v1` | `a9da7699596444d4b4010cf2b0feca79517362189cb07b3de68d96be08406fac` | `47907ff129c5cd29681ef4ea35ce31bedf59d448873689adeb4cf5b995cea71a` | `2026-06-14_cartas-al-viento-frio-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
